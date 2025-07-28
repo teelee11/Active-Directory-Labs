@@ -9,13 +9,13 @@ This project highlights my experience using Active Directory for efficient user 
 </p>
 
 <h2>Creating a New User</h2>
-![image alt](https://github.com/teelee11/Active-Directory-Labs/blob/main/user.png?raw=true)
+![image alt](image url)
 
 <h2>Password Reset</h2>
 ![image alt](image url)
 
 <h2>Creating a New Group</h2>
-![image alt](https://github.com/teelee11/Active-Directory-Labs/blob/f5aadf55601e2616f379dbbe14fc321b886e5add/group.png)
+![image alt](image url)
 
 <h2>Adding User to Group</h2>
 ![image alt](image url)

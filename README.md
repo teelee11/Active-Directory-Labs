@@ -15,7 +15,7 @@ This project highlights my experience using Active Directory for efficient user 
 ![image alt]()
 
 <h2>Creating a New Group</h2>
-![image alt]()
+![image alt](https://github.com/teelee11/Active-Directory-Labs/blob/f5aadf55601e2616f379dbbe14fc321b886e5add/group.png)
 
 <h2>Adding User to Group</h2>
 ![image alt]()

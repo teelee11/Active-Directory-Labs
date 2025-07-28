@@ -20,3 +20,11 @@ This project highlights my experience using Active Directory for efficient user 
 <h2>Adding User to Group</h2>
 ![image alt](image url)
 
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```

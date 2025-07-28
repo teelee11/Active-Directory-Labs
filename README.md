@@ -9,7 +9,7 @@ This project highlights my experience using Active Directory for efficient user 
 </p>
 
 <h2>Creating a New User</h2>
-![image alt]()
+![image alt](https://github.com/teelee11/Active-Directory-Labs/blob/9ddd5687f99bbbe1ff940f29446d5bf7b60f44f1/user.png)
 
 <h2>Password Reset</h2>
 ![image alt]()

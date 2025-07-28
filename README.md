@@ -9,15 +9,41 @@ This project highlights my experience using Active Directory for efficient user 
 </p>
 
 <h2>Creating a New User</h2>
+<ol>
+  <li>Navigate to the <strong>Users</strong> folder in Active Directory.</li>
+  <li>Click on <strong>New</strong> and select <strong>User</strong>.</li>
+  <li>Enter the user information (e.g., username, password).</li>
+  <li>Click <strong>Next</strong> to proceed.</li>
+  <li>Click <strong>Finish</strong> to complete the user creation.</li>
+</ol>
 ![image alt](image url)
 
 <h2>Password Reset</h2>
+<ol>
+  <li>Right-click on the user account in Active Directory.</li>
+  <li>Select <strong>Reset Password</strong> from the menu.</li>
+  <li>Enter the new password in the provided fields.</li>
+  <li>Click <strong>OK</strong> to confirm the reset.</li>
+</ol>
 ![image alt](image url)
 
 <h2>Creating a New Group</h2>
+<ol>
+  <li>Navigate to the desired folder in Active Directory.</li>
+  <li>Click on <strong>New</strong> and select <strong>Group</strong>.</li>
+  <li>Enter the group name and configure any required settings.</li>
+  <li>Click <strong>OK</strong> or <strong>Finish</strong> to create the group.</li>
+</ol>
 ![image alt](image url)
 
 <h2>Adding User to Group</h2>
+<ol>
+  <li>Right-click on the user account in Active Directory.</li>
+  <li>Select <strong>Add to a group</strong> from the menu.</li>
+  <li>Type the name of the group in the field.</li>
+  <li>Click <strong>Check Names</strong> (or <strong>Verify</strong>) to ensure the group is recognized.</li>
+  <li>Once the group name is highlighted, click <strong>OK</strong>.</li>
+</ol>
 ![image alt](image url)
 
 <!--

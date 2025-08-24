@@ -16,7 +16,7 @@ This project highlights my experience using Active Directory for efficient user 
   <li>Click <strong>Next</strong> to proceed.</li>
   <li>Click <strong>Finish</strong> to complete the user creation.</li>
 </ol>
-![image alt](image url)
+![image alt](https://github.com/teelee11/Active-Directory-Labs/blob/b5e4e9e41782ac5220a20eaa05a40d3899c31f1a/user.png)
 
 <h2>Password Reset</h2>
 <ol>

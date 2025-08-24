@@ -26,7 +26,8 @@ This project highlights my experience using Active Directory for efficient user 
   <li>Enter the new password in the provided fields.</li>
   <li>Click <strong>OK</strong> to confirm the reset.</li>
 </ol>
-![image alt](image url)
+
+<img width="1437" height="827" alt="reset password" src="https://github.com/user-attachments/assets/946657cf-b6f6-43ee-8bbf-c97aaea8d1df" />
 
 <h2>Creating a New Group</h2>
 <ol>
@@ -35,7 +36,9 @@ This project highlights my experience using Active Directory for efficient user 
   <li>Enter the group name and configure any required settings.</li>
   <li>Click <strong>OK</strong> or <strong>Finish</strong> to create the group.</li>
 </ol>
-![image alt](image url)
+
+<img width="1175" height="652" alt="group" src="https://github.com/user-attachments/assets/8720049d-132c-4a30-9936-30f6d89198fc" />
+
 
 <h2>Adding User to Group</h2>
 <ol>
@@ -45,7 +48,8 @@ This project highlights my experience using Active Directory for efficient user 
   <li>Click <strong>Check Names</strong> (or <strong>Verify</strong>) to ensure the group is recognized.</li>
   <li>Once the group name is highlighted, click <strong>OK</strong>.</li>
 </ol>
-![image alt](image url)
+
+<img width="1432" height="835" alt="user group" src="https://github.com/user-attachments/assets/97c35a95-74d9-4779-8a8e-500e40dc1998" />
 
 <!--
  ```diff
